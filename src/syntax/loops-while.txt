@@ -1,0 +1,6 @@
+Enter the password: boo
+Wrong...
+Enter the password: foo
+Wrong...
+Enter the password: secret
+Congratulations!

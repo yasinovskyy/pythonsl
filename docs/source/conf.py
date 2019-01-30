@@ -24,7 +24,7 @@ copyright = '2019, Roman Yasinovskyy'
 author = 'Roman Yasinovskyy'
 
 # The short X.Y version
-version = ''
+version = '0.0.1'
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
 
@@ -132,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'pythonsl.tex', 'pythonsl Documentation',
+    (master_doc, 'pythonsl.tex', 'Python as a Second Language',
      'Roman Yasinovskyy', 'manual'),
 ]
 
@@ -142,7 +142,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pythonsl', 'pythonsl Documentation',
+    (master_doc, 'pythonsl', 'Python as a Second Language',
      [author], 1)
 ]
 
@@ -153,8 +153,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'pythonsl', 'pythonsl Documentation',
-     author, 'pythonsl', 'One line description of project.',
+    (master_doc, 'pythonsl', 'Python as a Second Language',
+     author, 'pythonsl', 'Exploring Python standard library',
      'Miscellaneous'),
 ]
 
