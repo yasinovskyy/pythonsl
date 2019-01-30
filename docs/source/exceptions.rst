@@ -1,0 +1,4 @@
+Exceptions
+==========
+
+Expect the unexpected.
